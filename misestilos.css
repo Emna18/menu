@@ -1,0 +1,25 @@
+body{
+background: linear-gradient(to bottom, blue, white);
+border-radius: 20px 10px 50px 30px;
+-webkit-border-radius: 20px 10px 50px 30px;
+-moz-border-radius: 20px 10px 50px 30px;
+border: 15px double;
+  background-color: #A3FF8F;
+  font: oblique bold 120% cursive;
+  border-color: white;
+}
+
+
+header { font-size: 20px
+  font: oblique bold 120% cursive;
+ }
+
+h1, h2, h3 {
+  color: white;
+  font-weight: normal;
+  
+}
+p.texto1
+  { font-size: 20px 
+  color: white;
+}
